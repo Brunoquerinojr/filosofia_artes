@@ -69,6 +69,7 @@ img {
     align-items: flex-start;
     justify-content: center;
     margin: 10px 0px;
+    color:white;
 }
 
 .textfield > input {
