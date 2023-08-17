@@ -1,3 +1,6 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Handjet:wght@500&display=swap');
+
 body {
     margin: 0;
     padding: 0;
@@ -21,6 +24,7 @@ body {
 }
 
 .box h1 {
+    font-family: 'Handjet', cursive;
     color: white;
     text-transform: uppercase;
     font-weight: 500;
