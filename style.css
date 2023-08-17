@@ -14,7 +14,7 @@ body {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    background: #191919a8; /*opacity:80%*/
+    background: #191919a8; /opacity:80%/
     text-align: center;
     border: 2px solid #0099ffcc;
     border-radius: 5px;
@@ -27,45 +27,6 @@ body {
     
 }
 
-<<<<<<< HEAD
-.card-login {
-    width: 60%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-    padding: 30px 35px;
-    background: #2f2841;
-    border-radius: 20px;
-    box-shadow: 0px 10px 40px #00000056;
-}
-
-.card-login > h1 {
-    color: #00ff88;
-    font-weight: 800;
-    margin: 0;
-}
-
-.textfield {
-    width: 100%;
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-    justify-content: center;
-    margin: 10px 0px;
-    color:white;
-}
-
-.textfield > input {
-    width: 100%;
-    border: none;
-    border-radius: 10px;
-    padding: 15px;
-    background: #514869;
-    color: #f0ffffde;
-    font-size: 12pt;
-    box-shadow: 0px 10px 40px #00000056;
-=======
 .box input[type="text"],
 .box input[type="password"] {
     border: 0;
@@ -76,7 +37,6 @@ body {
     border: 2px solid #ffffff;
     padding: 14px 10px;
     width: 200px;
->>>>>>> b8f04953d70d9308b5a22275f072b678518cfd6c
     outline: none;
     color: white;
     border-radius: 24px;
